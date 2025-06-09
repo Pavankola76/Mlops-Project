@@ -1,0 +1,15 @@
+artifact_uri: /Users/pavankola/Documents/MLops/mlpipeline-practice/machinelearningpipeline/MLFLOW_TRACKING_URI/0/dca37eab67c4492895b3872cf65cc5e8/artifacts
+end_time: 1749428912021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dca37eab67c4492895b3872cf65cc5e8
+run_name: kindly-hen-658
+run_uuid: dca37eab67c4492895b3872cf65cc5e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749428908250
+status: 4
+tags: []
+user_id: pavankola

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749429054854
+current_stage: None
+description: null
+last_updated_timestamp: 1749429054854
+name: Best model
+run_id: 5766688544cc4d1398da05e0ef851062
+run_link: null
+source: /Users/pavankola/Documents/MLops/mlpipeline-practice/machinelearningpipeline/MLFLOW_TRACKING_URI/0/5766688544cc4d1398da05e0ef851062/artifacts/model
+status: READY
+status_message: null
+storage_location: /Users/pavankola/Documents/MLops/mlpipeline-practice/machinelearningpipeline/MLFLOW_TRACKING_URI/0/5766688544cc4d1398da05e0ef851062/artifacts/model
+user_id: null
+version: 1

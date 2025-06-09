@@ -1,0 +1,15 @@
+artifact_uri: /Users/pavankola/Documents/MLops/mlpipeline-practice/machinelearningpipeline/MLFLOW_TRACKING_URI/0/5766688544cc4d1398da05e0ef851062/artifacts
+end_time: 1749429054858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5766688544cc4d1398da05e0ef851062
+run_name: secretive-squid-905
+run_uuid: 5766688544cc4d1398da05e0ef851062
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749429047920
+status: 3
+tags: []
+user_id: pavankola
